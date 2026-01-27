@@ -223,7 +223,7 @@ plt.show()
 
 ## 🔬 Project Pipeline Overview
 
-```mermaid
+```
 flowchart TD
     A[Download Dataset] ==> B[Data Preprocessing]
     B ==> C[Data Augmentation (Training)]
