@@ -12,7 +12,9 @@ Welcome! This documentation explains the **Pneumonia-Detection.ipynb** notebook�
 - Aims for **clinical relevance** and **deployability** in real-world hospitals.
 
 ---
-
+## Used dataset URL
+- https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+---
 ## 🗂️ Main Steps in the Pipeline
 
 | Stage                      | Description                                                    |
