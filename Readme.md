@@ -3,6 +3,9 @@
 Welcome! This documentation explains the **Pneumonia-Detection.ipynb** notebook—a complete pipeline for Pneumonia detection from chest X-ray images using a custom-built Convolutional Neural Network (CNN) in PyTorch. This solution is fully open, trained from scratch, and designed for reproducibility, clarity, and adaptation in real-world healthcare settings.
 
 ---
+## Screenshots of the UI
+![alt text](image.png)
+---
 
 ## 🏁 What Does This Project Do?
 
